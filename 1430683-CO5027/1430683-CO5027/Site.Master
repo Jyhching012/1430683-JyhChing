@@ -19,7 +19,7 @@
 
         
             <div id="banner">
-                <!-- image retrieveed from goooge -->
+                <!-- image retrieveed from goooge and designed with Photoshop -->
                 <div id="img"><asp:Image ID="Image1" runat="server" ImageUrl="~/Image/Banner1.jpg" />
 
                 </div>
@@ -57,6 +57,7 @@
         </div>
         </div>
     </div>
+        <hr />
         <div id="footer">
             &copy; Copyright JC/LCB 2017<br />
 

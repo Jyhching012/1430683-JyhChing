@@ -17,11 +17,11 @@
         <tr>
             <td>
              <h1>GTX TITAN X</h1>
-             <asp:Image ID="Image1" runat="server"  ImageUrl="~/Image/titan x.JPG" Width="300px" />
+             <asp:Image ID="Image1" runat="server"  ImageUrl="~/Image/titan x.JPG" Width="300px" /><!-- Images retrieved from www.msi.com -->
             </td>
             <td>
                 <h1>MSI GTX 1080ti</h1>
-                <asp:Image ID="Image2" runat="server" ImageUrl="~/Image/1080ti.JPG" Width="325px" />
+                <asp:Image ID="Image2" runat="server" ImageUrl="~/Image/1080ti.JPG" Width="325px" /><!-- Image retrieved from www.msi.com -->
 
             </td>
         </tr>

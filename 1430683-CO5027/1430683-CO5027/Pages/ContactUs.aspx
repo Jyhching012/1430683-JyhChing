@@ -6,7 +6,7 @@
         <br />
     <h1>Contact Us</h1>
         
-        <!-- Code retrieved from https://www.youtube.com/watch?v=ngldKCSXA6U vid 1 and https://www.youtube.com/watch?v=Fw1X7HLZfos vid 2 to make a contact us table align and error code when input not validated fields -->
+        <!-- Code retrieved from https://www.youtube.com/watch?v=ngldKCSXA6U vid 1 and https://www.youtube.com/watch?v=Fw1X7HLZfos vid 2 to make a contact us table align and error code will appear when an input is not valid -->
         <table>
             <tr>
                 <td class="font" >
@@ -120,7 +120,7 @@
 </p>
 
         <hr />
-        <p>
+        <p><!-- Retrieved from GoogleMaps-->
         <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d3975.186283817327!2d114.94050271476306!3d4.908471496436228!2m3!1f0!2f0!3f0!3m2!1i1024!
             2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x3222f52379b208ab%3A0xbeddb8e9db66f5ee!2sMabohai+Shopping+Complex%2C+Jalan+Kebangsaan%2C+Bandar+Seri+Begawan+BA1111!3m2!
             1d4.9084715!2d114.9426914!5e0!3m2!1sen!2sbn!4v1491114619016" ></iframe>
