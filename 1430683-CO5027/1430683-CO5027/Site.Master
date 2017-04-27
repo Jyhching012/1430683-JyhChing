@@ -13,7 +13,7 @@
 <body>
    
     <form id="form1" runat="server">
-    <div>
+    
 
         <div id="wrapper">
 
@@ -56,7 +56,7 @@
 
         </div>
         </div>
-    </div>
+    
         <hr />
         <div id="footer">
             &copy; Copyright JC/LCB 2017<br />

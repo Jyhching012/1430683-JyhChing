@@ -2,7 +2,7 @@
 
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     
-    <div id="wrapper">
+    
         
     <h1>About Us</h1>
 <br />
@@ -17,25 +17,18 @@
         <tr>
             <td>
              <h1>GTX TITAN X</h1>
-             <asp:Image ID="Image1" runat="server"  ImageUrl="~/Image/titan x.JPG" Width="300px" /><!-- Images retrieved from www.msi.com -->
+                <img class="resize" alt="titanx" src="../Image/titan%20x.JPG" />
+             <!-- Images retrieved from www.msi.com -->
             </td>
             <td>
                 <h1>MSI GTX 1080ti</h1>
-                <asp:Image ID="Image2" runat="server" ImageUrl="~/Image/1080ti.JPG" Width="325px" /><!-- Image retrieved from www.msi.com -->
-
+                <!-- Image retrieved from www.msi.com -->
+                <img class="resize" alt="1090tui" src="../Image/1080ti.JPG" />
             </td>
         </tr>
 
         </table>
 
-
-                
-                     
-
-        
-
-
-</div>
    
     
 </asp:Content>
