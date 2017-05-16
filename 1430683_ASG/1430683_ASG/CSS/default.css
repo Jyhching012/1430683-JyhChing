@@ -1,0 +1,32 @@
+﻿
+
+
+#ContentPlaceHolder1_pnlGraphic div
+{
+    float:left;
+    width:250px;
+    height:350px;
+    text-align:center;
+
+}
+
+.productImage{
+    width: 250px;
+    height: 200px;
+    vertical-align: central;
+    padding: 10px;
+    border-radius: 50px;
+    -moz-border-radius: 50px;
+    -webkit-border-radius: 50px;
+}
+
+.productName{
+    font-size:18px;
+        font-weight:bold;
+
+}
+
+productPrice{
+    font-family: "Times New Roman", Times ,serif;
+    color: black;
+}
